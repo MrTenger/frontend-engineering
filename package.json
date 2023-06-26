@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/MrTenger/frontend-engineering#readme",
   "devDependencies": {
-    "@commitlint/cli": "^17.6.1",
+    "@commitlint/cli": "^17.6.6",
     "@commitlint/config-conventional": "^17.6.1",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
